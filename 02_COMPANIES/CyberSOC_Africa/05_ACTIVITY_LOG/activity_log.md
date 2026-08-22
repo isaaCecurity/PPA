@@ -16,8 +16,10 @@
 
 2026-08-22 — LinkedIn connection request manually sent to Ejiroghene Anighoro (Lead Infrastructure & Security Engineer) with the approved connection note. Status: **REQUEST SENT — AWAITING ACCEPTANCE**. No DM sent.
 
-2026-08-22 — Public research updated: Bolaji Kazeem remains a Cybersecurity Engineer / SOC Analyst at CyberSOC Africa and is a viable secondary technical contact. Temiloluwa Oyeneye is no longer the HR Manager at CyberSOC Africa; her prior HR tenure ended in March 2025, so she should not be treated as the current HR route without fresh validation.
+2026-08-22 — Public research update: Bolaji Kazeem remains a Cybersecurity Engineer / SOC Analyst at CyberSOC Africa and is a viable secondary technical contact. Temiloluwa Oyeneye is no longer the HR Manager at CyberSOC Africa; her prior HR tenure ended in March 2025, so she should not be treated as the current HR route without fresh validation.
 
-2026-08-22 — LinkedIn connector capability rechecked. Direct person-to-person connection requests and DMs are not exposed, so Bolaji's connection must be sent manually and then recorded after confirmation.
+2026-08-22 — LinkedIn connector capability rechecked. Direct person-to-person connection requests and DMs are not exposed, so Bolaji's connection had to be sent manually and recorded after confirmation.
 
-Current status: Ejiroghene connection request sent; awaiting acceptance. Bolaji secondary technical route researched and ready for manual connection. CyberSOC email remains UNSENT and is retained as a fallback channel.
+2026-08-22 — LinkedIn connection request manually sent to Bolaji Kazeem (Cybersecurity Engineer / SOC Analyst) with the approved connection note. Status: **REQUEST SENT — AWAITING ACCEPTANCE**. No DM sent.
+
+Current status: Ejiroghene and Bolaji connection requests sent; both awaiting acceptance. CyberSOC email remains **UNSENT** and is retained as a fallback channel. No LinkedIn DM has been sent. Campaign paused until the next review.
